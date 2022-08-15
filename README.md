@@ -2,7 +2,7 @@
 
 ### SpringBoot Rest Example
 
-### Senario
+### Scenario
 * In this problem, you have a garage that can be parked up to 10 slots (you can consider each slot is 1 unit range) at any
 given point in time. You should create an automated ticketing system that allows your customers to use your garage
 without human intervention. When a car enters your garage, you give a unique ticket issued to the driver. The ticket
